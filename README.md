@@ -14,7 +14,7 @@ Machine learning methods to detect fake news typically use textual features and 
 
 # Github Organization
 - Pipfiles: contains the versions of the libraries used
-- DEMO: ...
+- DEMO: demo file for using TripleVAE.
 - Results: total results of each method in each scenario considering all parameters used
 - Codes: source codes used for the study experiments (including Multimodal LIME for OCL)
 
