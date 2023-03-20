@@ -12,7 +12,7 @@ If you use any part of this code in your research, please cite it using the foll
 ```latex
 @article{ref:Golo2023,
   title={One-class learning for fake news detection through multimodal variational autoencoders},
-  author={G{\^o}lo, Marcos Paulo Silva and de Souza, Mariana Caravanti and Rossi, Rafael Geraldeli and Rezende, Solange Oliveira and Nogueira, Bruno Magalh{\~a}es and Marcacini, Ricardo Marcondes},
+  author={Gôlo, Marcos Paulo Silva and de Souza, Mariana Caravanti and Rossi, Rafael Geraldeli and Rezende, Solange Oliveira and Nogueira, Bruno Magalhães and Marcacini, Ricardo Marcondes},
   journal={Engineering Applications of Artificial Intelligence},
   volume={122},
   pages={106088},
